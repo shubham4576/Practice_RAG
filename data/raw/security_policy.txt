@@ -1,0 +1,11 @@
+Information Security Policy
+
+Employees must use multi-factor authentication when accessing company systems.
+
+Company passwords must never be shared with another employee.
+
+Customer data must only be stored in approved company systems.
+
+Employees must report suspected security incidents to the security team immediately.
+
+Production systems may only be accessed by authorised personnel.
